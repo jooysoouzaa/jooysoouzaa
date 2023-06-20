@@ -2,12 +2,7 @@
   <h1>Hi, I'm Joy Souza! 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://joysouza.vercel.app/Imagens/perfil.png" alt="Profile Image" style="border-radius: 50%;" width="250">
-</div>
-
-
-A front-end developer passionate about creating interactive and engaging web experiences. I have solid skills in HTML, CSS, JavaScript, Sass, Less, Bootstrap, Git, and GitHub. I am constantly seeking to learn and improve in web development, exploring new technologies and following best practices.
+A front-end developer passionate about creating interactive and engaging web experiences. I have solid skills in HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp Git, and GitHub. I am constantly seeking to learn and improve in web development, exploring new technologies and following best practices.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&icon_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)
 
