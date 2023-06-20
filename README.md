@@ -15,7 +15,7 @@ A front-end developer passionate about creating interactive and engaging web exp
 [![CSS](https://img.shields.io/badge/-CSS-ccb0ab?style=for-the-badge&logo=css3&logoColor=1b1b1b)](#)
 [![Sass](https://img.shields.io/badge/-Sass-ccb0ab?style=for-the-badge&logo=sass&logoColor=1b1b1b)](#)
 [![Less](https://img.shields.io/badge/-Less-ccb0ab?style=for-the-badge&logo=less&logoColor=1b1b1b)](#)
-[![BEM](https://img.shields.io/badge/-BEM-ccb0ab?style=for-the-badge&logo=html5&logoColor=1b1b1b)](#)
+[![BEM](https://img.shields.io/badge/-BEM-ccb0ab?style=for-the-badge&logo=bem&logoColor=1b1b1b)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccb0ab?style=for-the-badge&logo=bootstrap&logoColor=1b1b1b)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-ccb0ab?style=for-the-badge&logo=javascript&logoColor=1b1b1b)](#)
 [![Gulp](https://img.shields.io/badge/-Gulp-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
