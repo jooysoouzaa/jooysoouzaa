@@ -1,5 +1,5 @@
 ### <div align="center">
-  <h1>Hi, I'm Joy Souza! 👋</h1>
+  <h1>Hi, I'm Joy Sóuza! 👋</h1>
 </div>
 
 A front-end developer passionate about creating interactive and engaging web experiences. I have solid skills in HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp Git, and GitHub. I am constantly seeking to learn and improve in web development, exploring new technologies and following best practices.
