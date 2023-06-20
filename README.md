@@ -2,7 +2,7 @@
   <h1>Hi, I'm Joy Sóuza! 👋</h1>
 </div>
 
-A front-end developer passionate about creating interactive and engaging web experiences. I have solid skills in HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp Git, and GitHub. I am a graduate in Analysis and Systems Development from FIAP, constantly seeking to learn and improve in web development, exploring new technologies, and following best practices.
+Sou uma desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades sólidas em HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&icon_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)
 
