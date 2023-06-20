@@ -1,5 +1,5 @@
 ### <div align="center">
-  <h1>Hi, I'm Joy Sóuza! 👋</h1>
+  <h1>Olá! Sou a Joy Sóuza! 👋</h1>
 </div>
 
 Sou uma desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades sólidas em HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
@@ -7,10 +7,7 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências web interati
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&icon_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)
 
 
-
-
-
-## Technologies 
+## Tecnologias
 [![HTML](https://img.shields.io/badge/-HTML-ccb0ab?style=for-the-badge&logo=html5&logoColor=1b1b1b)](#)
 [![CSS](https://img.shields.io/badge/-CSS-ccb0ab?style=for-the-badge&logo=css3&logoColor=1b1b1b)](#)
 [![Sass](https://img.shields.io/badge/-Sass-ccb0ab?style=for-the-badge&logo=sass&logoColor=1b1b1b)](#)
@@ -22,7 +19,7 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências web interati
 [![Git](https://img.shields.io/badge/-Git-ccb0ab?style=for-the-badge&logo=git&logoColor=1b1b1b)](#)
 
 
-## Contacts
+## Contatos
 <div>
   <a href="mailto:joysouza.contato@gmail.com">
     <img src="https://img.shields.io/badge/Email-joysouza.contato%40gmail.com-1b1b1b?style=for-the-badge&logo=mail&logoColor=ccb0ab" alt="Email">
