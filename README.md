@@ -1,6 +1,5 @@
-<div align="center">
-<h1>Olá! Sou a Joy Sóuza! 👋</h1>
-</div>
+
+<h1>Olá! Sou a Joy Sóuza!</h1>
 
 Sou uma desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades sólidas em HTML, CSS, Bem, Sass, Less, JavaScript, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
 
