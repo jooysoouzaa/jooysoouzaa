@@ -1,7 +1,7 @@
 
 <h1>Olá! Sou a Joy Sóuza!</h1>
 
-Sou desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades em HTML, CSS, Bem, Sass, Less, JavaScript, Figma, WordPres, Elementor, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
+Sou desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades em HTML, CSS, Metodologia BEM, SASS, LESS, JavaScript, Figma, WordPres, Elementor, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&icon_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)
 
@@ -15,6 +15,7 @@ Sou desenvolvedora front-end apaixonada por criar experiências web interativas 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccb0ab?style=for-the-badge&logo=bootstrap&logoColor=1b1b1b)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-ccb0ab?style=for-the-badge&logo=javascript&logoColor=1b1b1b)](#)
 [![Gulp](https://img.shields.io/badge/-Gulp-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
+[![Grunt](https://img.shields.io/badge/-Grunt-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
 [![Git](https://img.shields.io/badge/-Git-ccb0ab?style=for-the-badge&logo=git&logoColor=1b1b1b)](#)
 
 
