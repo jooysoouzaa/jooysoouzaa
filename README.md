@@ -14,8 +14,11 @@ Sou desenvolvedora front-end apaixonada por criar experiências web interativas 
 [![BEM](https://img.shields.io/badge/-BEM-ccb0ab?style=for-the-badge&logo=bem&logoColor=1b1b1b)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccb0ab?style=for-the-badge&logo=bootstrap&logoColor=1b1b1b)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-ccb0ab?style=for-the-badge&logo=javascript&logoColor=1b1b1b)](#)
+[![TypeScript](https://img.shields.io/badge/-TipeScript-ccb0ab?style=for-the-badge&logo=tipescript&logoColor=1b1b1b)](#)
 [![Gulp](https://img.shields.io/badge/-Gulp-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
 [![Grunt](https://img.shields.io/badge/-Grunt-ccb0ab?style=for-the-badge&logo=grunt&logoColor=1b1b1b)](#)
+[![Parcel](https://img.shields.io/badge/-Parcel-ccb0ab?style=for-the-badge&logo=parcel&logoColor=1b1b1b)](#)
+[![Figma](https://img.shields.io/badge/-Figma-ccb0ab?style=for-the-badge&logo=figma&logoColor=1b1b1b)](#)
 [![Git](https://img.shields.io/badge/-Git-ccb0ab?style=for-the-badge&logo=git&logoColor=1b1b1b)](#)
 
 
