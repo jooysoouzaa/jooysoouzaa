@@ -35,7 +35,7 @@ Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvime
     <img src="https://img.shields.io/badge/Email-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Email">
   </a>
   <a href="https://joysouza.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Portfólio">
   </a>
    <a href="https://api.whatsapp.com/send?phone=5511969838280">
     <img src="https://img.shields.io/badge/WhatsApp-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="WhatsApp">
