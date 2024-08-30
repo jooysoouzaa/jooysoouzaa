@@ -27,6 +27,7 @@ Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvime
 [![Babel](https://img.shields.io/badge/-Babel-8b5ec1?style=for-the-badge&logo=babel&logoColor=f7f0ff)](#)
 [![Figma](https://img.shields.io/badge/-Figma-8b5ec1?style=for-the-badge&logo=figma&logoColor=f7f0ff)](#)
 [![Git](https://img.shields.io/badge/-Git-8b5ec1?style=for-the-badge&logo=git&logoColor=f7f0ff)](#)
+[![WordPress](https://img.shields.io/badge/-WordPress-8b5ec1?style=for-the-badge&logo=wordpress&logoColor=f7f0ff)](#)
 
 
 ## Contatos
