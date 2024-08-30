@@ -32,7 +32,7 @@ Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvime
 ## Contatos
 <div>
   <a href="mailto:joysouza.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Email">
+    <img src="https://img.shields.io/badge/Email-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Email">
   </a>
   <a href="https://joysouza.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-8b5ec1?style=for-the-badge&logoColor=f7f0ff" alt="Portfólio">
