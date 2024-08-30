@@ -1,7 +1,7 @@
 
 <h1>Olá! Sou a Joy Sóuza!</h1>
 
-Sou desenvolvedora front-end apaixonada por criar experiências web interativas e envolventes. Tenho habilidades em HTML, CSS, Metodologia BEM, SASS, LESS, JavaScript, Figma, WordPress, Elementor, Bootstrap, Gulp, Git e GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e estou constantemente em busca de aprender e aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e seguindo as melhores práticas.
+Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvimento de Sistemas pela FIAP. Apaixonada por tecnologia e design, estou sempre em busca de aprimoramento contínuo e de novas aprendizagens. Autodidata, detalhista e focada em resultados, sempre buscando soluções inovadoras e eficientes para os projetos em que me envolvo. Minhas habilidades incluem HTML, CSS, SASS, LESS, metodologia BEM, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Styled Components, Redux, testes com Cypress (End-to-End), Jest (Unitários) e React Testing Library, além de Git/GitHub, Figma, WordPress, Elementor, Illustrator e Photoshop. Com uma sólida formação acadêmica e uma paixão pelo aprendizado contínuo, estou constantemente explorando novas tecnologias e adotando as melhores práticas em desenvolvimento web.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&icon_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=1b1b1b&title_color=ccb0ab&text_color=ccb0ab&border_color=ccb0ab)](https://github.com/jooysoouzaa)
 
@@ -17,7 +17,7 @@ Sou desenvolvedora front-end apaixonada por criar experiências web interativas 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-ccb0ab?style=for-the-badge&logo=typescript&logoColor=1b1b1b)](#)
 [![React](https://img.shields.io/badge/-React-ccb0ab?style=for-the-badge&logo=react&logoColor=1b1b1b)](#)
 [![Redux](https://img.shields.io/badge/-Redux-ccb0ab?style=for-the-badge&logo=redux&logoColor=1b1b1b)](#)
-[![StyledComponents](https://img.shields.io/badge/-StyledComponents-ccb0ab?style=for-the-badge&logo=styledcomponents&logoColor=1b1b1b)](#)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-ccb0ab?style=for-the-badge&logo=styledcomponents&logoColor=1b1b1b)](#)
 [![Jest](https://img.shields.io/badge/-Jest-ccb0ab?style=for-the-badge&logo=jest&logoColor=1b1b1b)](#)
 [![Cypress](https://img.shields.io/badge/-Cypress-ccb0ab?style=for-the-badge&logo=cypress&logoColor=1b1b1b)](#)
 [![Gulp](https://img.shields.io/badge/-Gulp-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
