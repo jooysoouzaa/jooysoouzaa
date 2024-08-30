@@ -13,31 +13,31 @@ Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvime
 [![Less](https://img.shields.io/badge/-Less-7312FA?style=for-the-badge&logo=less&logoColor=0D1117)](#)
 [![BEM](https://img.shields.io/badge/-BEM-7312FA?style=for-the-badge&logo=bem&logoColor=0D1117)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7312FA?style=for-the-badge&logo=bootstrap&logoColor=0D1117)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-7312FA?style=for-the-badge&logo=javascript&logoColor=1b1b1b)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-7312FA?style=for-the-badge&logo=typescript&logoColor=1b1b1b)](#)
-[![React](https://img.shields.io/badge/-React-7312FA?style=for-the-badge&logo=react&logoColor=1b1b1b)](#)
-[![Redux](https://img.shields.io/badge/-Redux-7312FA?style=for-the-badge&logo=redux&logoColor=1b1b1b)](#)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-7312FA?style=for-the-badge&logo=styledcomponents&logoColor=1b1b1b)](#)
-[![Jest](https://img.shields.io/badge/-Jest-7312FA?style=for-the-badge&logo=jest&logoColor=1b1b1b)](#)
-[![Cypress](https://img.shields.io/badge/-Cypress-7312FA?style=for-the-badge&logo=cypress&logoColor=1b1b1b)](#)
-[![Gulp](https://img.shields.io/badge/-Gulp-7312FA?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
-[![Grunt](https://img.shields.io/badge/-Grunt-7312FA?style=for-the-badge&logo=grunt&logoColor=1b1b1b)](#)
-[![Parcel](https://img.shields.io/badge/-Parcel-7312FA?style=for-the-badge&logo=parcel&logoColor=1b1b1b)](#)
-[![Babel](https://img.shields.io/badge/-Babel-7312FA?style=for-the-badge&logo=babel&logoColor=1b1b1b)](#)
-[![Figma](https://img.shields.io/badge/-Figma-7312FA?style=for-the-badge&logo=figma&logoColor=1b1b1b)](#)
-[![Git](https://img.shields.io/badge/-Git-7312FA?style=for-the-badge&logo=git&logoColor=1b1b1b)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-7312FA?style=for-the-badge&logo=javascript&logoColor=0D1117)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-7312FA?style=for-the-badge&logo=typescript&logoColor=0D1117)](#)
+[![React](https://img.shields.io/badge/-React-7312FA?style=for-the-badge&logo=react&logoColor=0D1117)](#)
+[![Redux](https://img.shields.io/badge/-Redux-7312FA?style=for-the-badge&logo=redux&logoColor=0D1117)](#)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-7312FA?style=for-the-badge&logo=styledcomponents&logoColor=0D1117)](#)
+[![Jest](https://img.shields.io/badge/-Jest-7312FA?style=for-the-badge&logo=jest&logoColor=0D1117)](#)
+[![Cypress](https://img.shields.io/badge/-Cypress-7312FA?style=for-the-badge&logo=cypress&logoColor=0D1117)](#)
+[![Gulp](https://img.shields.io/badge/-Gulp-7312FA?style=for-the-badge&logo=gulp&logoColor=0D1117)](#)
+[![Grunt](https://img.shields.io/badge/-Grunt-7312FA?style=for-the-badge&logo=grunt&logoColor=0D1117)](#)
+[![Parcel](https://img.shields.io/badge/-Parcel-7312FA?style=for-the-badge&logo=parcel&logoColor=0D1117)](#)
+[![Babel](https://img.shields.io/badge/-Babel-7312FA?style=for-the-badge&logo=babel&logoColor=0D1117)](#)
+[![Figma](https://img.shields.io/badge/-Figma-7312FA?style=for-the-badge&logo=figma&logoColor=0D1117)](#)
+[![Git](https://img.shields.io/badge/-Git-7312FA?style=for-the-badge&logo=git&logoColor=0D1117)](#)
 
 
 ## Contatos
 <div>
   <a href="mailto:joysouza.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joysouza.contato%40gmail.com-1b1b1b?style=for-the-badge&logo=mail&logoColor=7312FA" alt="Email">
+    <img src="https://img.shields.io/badge/Email-joysouza.contato%40gmail.com-0D1117?style=for-the-badge&logo=mail&logoColor=7312FA" alt="Email">
   </a>
   <a href="https://joysouza.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-joysouza.vercel.app-1b1b1b?style=for-the-badge&logo=vercel&logoColor=7312FA" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-joysouza.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=7312FA" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jooyaraujo/">
-    <img src="https://img.shields.io/badge/LinkedIn-jooyaraujo-1b1b1b?style=for-the-badge&logo=linkedin&logoColor=7312FA" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-jooyaraujo-0D1117?style=for-the-badge&logo=linkedin&logoColor=7312FA" alt="LinkedIn">
   </a>
 </div>
 
