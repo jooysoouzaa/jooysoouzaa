@@ -17,6 +17,7 @@ Sou desenvolvedora front-end apaixonada por criar experiências web interativas 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-ccb0ab?style=for-the-badge&logo=typescript&logoColor=1b1b1b)](#)
 [![React](https://img.shields.io/badge/-React-ccb0ab?style=for-the-badge&logo=react&logoColor=1b1b1b)](#)
 [![Redux](https://img.shields.io/badge/-Redux-ccb0ab?style=for-the-badge&logo=redux&logoColor=1b1b1b)](#)
+[![StyledComponents](https://img.shields.io/badge/-StyledComponents-ccb0ab?style=for-the-badge&logo=styledcomponents&logoColor=1b1b1b)](#)
 [![Jest](https://img.shields.io/badge/-Jest-ccb0ab?style=for-the-badge&logo=jest&logoColor=1b1b1b)](#)
 [![Cypress](https://img.shields.io/badge/-Cypress-ccb0ab?style=for-the-badge&logo=cypress&logoColor=1b1b1b)](#)
 [![Gulp](https://img.shields.io/badge/-Gulp-ccb0ab?style=for-the-badge&logo=gulp&logoColor=1b1b1b)](#)
