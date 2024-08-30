@@ -31,13 +31,13 @@ Sou Engenheira Front-End formada pela EBAC e graduada em Análise e Desenvolvime
 ## Contatos
 <div>
   <a href="mailto:joysouza.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joysouza.contato%40gmail.com-0D1117?style=for-the-badge&logo=mail&logoColor=7312FA" alt="Email">
+    <img src="https://img.shields.io/badge/Email-joysouza.contato%40gmail.com-b5ec1?style=for-the-badge&logo=mail&logoColor=7312FA" alt="Email">
   </a>
   <a href="https://joysouza.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-joysouza.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=7312FA" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-joysouza.vercel.app-b5ec1?style=for-the-badge&logo=vercel&logoColor=7312FA" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jooyaraujo/">
-    <img src="https://img.shields.io/badge/LinkedIn-jooyaraujo-0D1117?style=for-the-badge&logo=linkedin&logoColor=7312FA" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-jooyaraujo-b5ec1?style=for-the-badge&logo=linkedin&logoColor=7312FA" alt="LinkedIn">
   </a>
 </div>
 
