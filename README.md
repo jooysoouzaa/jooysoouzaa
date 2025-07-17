@@ -9,7 +9,7 @@ Formada em Análise e Desenvolvimento de Sistemas pela FIAP, iniciei minha traje
 ## Tecnologias
 [![Python](https://img.shields.io/badge/-Python-8b5ec1?style=for-the-badge&logo=python&logoColor=f7f0ff)](#)
 [![SQL](https://img.shields.io/badge/-Sql-8b5ec1?style=for-the-badge&logo=sql&logoColor=f7f0ff)](#)
-[![Sass](https://img.shields.io/badge/-Sass-8b5ec1?style=for-the-badge&logo=sass&logoColor=f7f0ff)](#)
+[![Power BI](https://img.shields.io/badge/-PowerBI-8b5ec1?style=for-the-badge&logo=powerbi&logoColor=f7f0ff)](#)
 [![Less](https://img.shields.io/badge/-Less-8b5ec1?style=for-the-badge&logo=less&logoColor=f7f0ff)](#)
 [![BEM](https://img.shields.io/badge/-BEM-8b5ec1?style=for-the-badge&logo=bem&logoColor=f7f0ff)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-8b5ec1?style=for-the-badge&logo=bootstrap&logoColor=f7f0ff)](#)
