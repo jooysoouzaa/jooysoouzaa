@@ -10,7 +10,7 @@ Formada em Análise e Desenvolvimento de Sistemas pela FIAP, iniciei minha traje
 [![Python](https://img.shields.io/badge/-Python-8b5ec1?style=for-the-badge&logo=python&logoColor=f7f0ff)](#)
 [![SQL](https://img.shields.io/badge/-Sql-8b5ec1?style=for-the-badge&logo=sql&logoColor=f7f0ff)](#)
 [![Power BI](https://img.shields.io/badge/-PowerBI-8b5ec1?style=for-the-badge&logo=powerbi&logoColor=f7f0ff)](#)
-[![Less](https://img.shields.io/badge/-Less-8b5ec1?style=for-the-badge&logo=less&logoColor=f7f0ff)](#)
+[![Excel](https://img.shields.io/badge/-Excel-8b5ec1?style=for-the-badge&logo=excel&logoColor=f7f0ff)](#)
 [![BEM](https://img.shields.io/badge/-BEM-8b5ec1?style=for-the-badge&logo=bem&logoColor=f7f0ff)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-8b5ec1?style=for-the-badge&logo=bootstrap&logoColor=f7f0ff)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-8b5ec1?style=for-the-badge&logo=javascript&logoColor=f7f0ff)](#)
