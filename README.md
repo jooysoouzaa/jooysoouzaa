@@ -1,5 +1,5 @@
 
-<h1>Olá! Sou a Joy Sóuza!</h1>
+<h1>Olá! Sou a Joy Souza!</h1>
 
 <div>
   <p>
