@@ -1,8 +1,6 @@
 
 <h1>Olá! Sou a Joy Sóuza!</h1>
 
-Formada em Análise e Desenvolvimento de Sistemas pela FIAP, iniciei minha trajetória como desenvolvedora front-end e web designer, criando soluções voltadas à experiência do usuário e à performance. Com o tempo, despertei interesse pelo impacto dos dados nas decisões estratégicas e atualmente curso Big Data e Inteligência Analítica pela PUCPR, e tenho me aprofundado em Power BI, SQL, Excel e Python, com foco em extração de dados, criação de dashboards, desenvolvimento de relatórios e análise de indicadores. Busco unir minha bagagem técnica e criativa para agregar valor em projetos de análise de dados ou BI. 
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=0d1117&title_color=f7f0ff&icon_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=0d1117&title_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jooysoouzaa)
 
 
