@@ -1,8 +1,13 @@
 
 <h1>Olá! Sou a Joy Sóuza!</h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jooysoouzaa&show_icons=true&theme=radical&bg_color=0d1117&title_color=f7f0ff&icon_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jooysoouzaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooysoouzaa&layout=compact&theme=radical&bg_color=0d1117&title_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jooysoouzaa)
+<div>
+  <p>
+    Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente curso Big Data e Inteligência Analítica na PUCPR. Minha trajetória na tecnologia começou em 2019, atuando como desenvolvedora Front-End, onde adquiri sólida base em HTML, CSS, JavaScript, React, metodologias ágeis (Scrum) e boas práticas de desenvolvimento, sempre com atenção à qualidade da interface e à experiência do usuário.
 
+Entre 2020 e 2025, atuei de forma empreendedora como Web Designer e Designer Digital, desenvolvendo sites e soluções digitais do início ao fim. Nesse período, trabalhei com prototipação no Figma, estruturação de layouts, acessibilidade, usabilidade, performance, SEO e conversão, o que fortaleceu minha visão de negócio, autonomia e capacidade de transformar necessidades em soluções digitais eficientes e centradas no usuário.
+  </p>
+</div>
 
 ## Tecnologias
 [![Python](https://img.shields.io/badge/-Python-8b5ec1?style=for-the-badge&logo=python&logoColor=f7f0ff)](#)
