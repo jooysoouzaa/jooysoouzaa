@@ -1,11 +1,18 @@
 
-<h1>Olá! Sou a Joy Souza!</h1>
+<h1>Olá! Sou a Joy Souza 👋</h1>
 
 <div>
   <p>
-  Me chamo Joy, sou formada em Análise e Desenvolvimento de Sistemas pela FIAP. Iniciei minha carreira atuando como desenvolvedora front-end e, posteriormente, como web designer e designer gráfico. Durante esse período, desenvolvi soluções digitais focadas em usabilidade, performance e experiência do usuário. Com o tempo, percebi que minha curiosidade ia além da interface: eu queria entender o que estava por trás das decisões, como os dados influenciavam os produtos e como análises podiam guiar melhores resultados e essa inquietação me levou a uma nova direção.
+Sou profissional de tecnologia, formada em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente curso Big Data e Inteligência Analítica.
 
-Atualmente, curso Big Data e Inteligência Analítica pela FMU e estou direcionando minha carreira para áreas mais analíticas. Tenho estudado ferramentas como Excel, Power BI, Looker, SQL, Databricks e Python, e estou em constante evolução para transformar dados em informações estratégicas que impulsionem decisões reais. Minha missão agora é unir minha base técnica e criativa com uma visão analítica para entregar valor onde mais importa: na tomada de decisão.
+Minha trajetória começou no desenvolvimento Front-End e, durante cerca de cinco anos, atuei de forma autônoma à frente de projetos digitais, desenvolvendo soluções para clientes e conduzindo etapas como levantamento de requisitos, desenvolvimento, validação e entrega.
+
+Tenho experiência com SQL, Python, PySpark, Databricks, Azure Data Factory, Git/GitHub, Power BI e Looker, além de contato com BigQuery e Dataform. Também desenvolvo projetos envolvendo ETL/ELT, arquitetura Medalhão, Delta Lake, qualidade de dados e pipelines.
+
+Gosto especialmente de projetos que conectam desenvolvimento de software e dados, desde a construção e integração das soluções até o tratamento, análise e visualização das informações.
+
+Neste GitHub compartilho projetos de Engenharia de Dados, Analytics e Desenvolvimento de Software, além de estudos e experimentos técnicos.
+    
   </p>
 </div>
 
