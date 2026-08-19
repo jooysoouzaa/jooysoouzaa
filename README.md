@@ -18,10 +18,9 @@ Neste GitHub compartilho projetos de Engenharia de Dados, Analytics e Desenvolvi
 
 ### Tecnologias
 
-**Dados:** SQL • Python • PySpark • Databricks • Azure Data Factory • BigQuery • Dataform  
+**Dados:** SQL • Python • PySpark • Databricks • Azure Data Factory • BigQuery • Dataform Git/GitHub • ETL/ELT • Delta Lake • Arquitetura Medalhão 
 **Analytics:** Power BI • Looker • LookML  
 **Desenvolvimento:** React • JavaScript • HTML • CSS • APIs REST  
-**Engenharia:** Git/GitHub • ETL/ELT • Delta Lake • Arquitetura Medalhão
 
 ## Contatos
 <div>
