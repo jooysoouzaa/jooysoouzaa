@@ -5,7 +5,7 @@
   <p>
 Sou profissional de tecnologia, formada em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente curso Big Data e Inteligência Analítica.
 
-Minha trajetória começou no desenvolvimento Front-End e, durante cerca de cinco anos, atuei de forma autônoma à frente de projetos digitais, desenvolvendo soluções para clientes e conduzindo etapas como levantamento de requisitos, desenvolvimento, validação e entrega.
+Minha trajetória começou com desenvolvimento Front-End, atuando com HTML, CSS, JavaScript, React, usabilidade e experiência do usuário e, durante cinco anos, atuei de forma autônoma à frente de projetos digitais, desenvolvendo soluções para clientes e conduzindo etapas como levantamento de requisitos, desenvolvimento, validação e entrega. Posteriormente, direcionei minha carreira para Dados, passando a trabalhar com análise, transformação, qualidade e disponibilização de informações para o negócio.
 
 Tenho experiência com SQL, Python, PySpark, Databricks, Azure Data Factory, Git/GitHub, Power BI e Looker, além de contato com BigQuery e Dataform. Também desenvolvo projetos envolvendo ETL/ELT, arquitetura Medalhão, Delta Lake, qualidade de dados e pipelines.
 
@@ -15,6 +15,13 @@ Neste GitHub compartilho projetos de Engenharia de Dados, Analytics e Desenvolvi
     
   </p>
 </div>
+
+### Tecnologias
+
+**Dados:** SQL • Python • PySpark • Databricks • Azure Data Factory • BigQuery • Dataform  
+**Analytics:** Power BI • Looker • LookML  
+**Desenvolvimento:** React • JavaScript • HTML • CSS • APIs REST  
+**Engenharia:** Git/GitHub • ETL/ELT • Delta Lake • Arquitetura Medalhão
 
 ## Contatos
 <div>
